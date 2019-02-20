@@ -108,6 +108,7 @@ fields:
   name: image_gallery
   label: Image Gallery
 pages:
+- content/articles/fwer.md
 - content/articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
 - content/articles/pov-traviata.md
 - content/articles/don-pasquale.md
