@@ -41,6 +41,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/fewfew.md
 - content/scene/people/f-wfew-ew.md
 - content/scene/people/apple.md
 - content/scene/people/paul-la-rosa.md
