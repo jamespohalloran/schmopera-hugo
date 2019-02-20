@@ -41,6 +41,7 @@ fields:
       type: pages
       section: companies
 pages:
+- content/scene/people/apple.md
 - content/scene/people/paul-la-rosa.md
 - content/scene/people/erica-schuller.md
 - content/scene/people/giorgio-berrugi-1.md
