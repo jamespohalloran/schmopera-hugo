@@ -39,6 +39,23 @@ fields:
     source:
       type: pages
       section: companies
+- name: repeat
+  type: field_group_list
+  fields:
+  - name: ta
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: ta
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: repeat
 pages:
 - content/scene/people/fewefw.md
 - content/scene/people/vdsbfd.md
