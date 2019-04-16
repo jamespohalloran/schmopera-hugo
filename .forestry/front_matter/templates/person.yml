@@ -52,8 +52,8 @@ fields:
         format: markdown
     label: ta
   config:
-    min: 
-    max: 
+    min: '0'
+    max: '0'
     labelField: 
   label: repeat
 pages:
