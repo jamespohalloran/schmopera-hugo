@@ -106,6 +106,15 @@ fields:
 - type: image_gallery
   name: image_gallery
   label: Image Gallery
+- name: dateoo
+  type: datetime
+  label: dateoo
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: 
 pages:
 - content/articles/fwer.md
 - content/articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
