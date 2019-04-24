@@ -1,5 +1,20 @@
 ---
 title: About Schmopera
+related_articles: []
+slug: gregr
+author: []
+categories: ''
+primary_image: ''
+primary_image_credit: ''
+short_description: gr
+disclaimer: ''
+preamble: ''
+postamble: ''
+youtube_url: ''
+related_people: []
+related_companies: []
+image_gallery: []
+dateoo: 2019-04-19 03:00:00 +0000
 
 ---
 ## THIS IS WHAT WE'RE ABOUT.
