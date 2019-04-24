@@ -1,7 +1,8 @@
 ---
-title: "Advertising"
----
+title: Advertising
+related_articles: []
 
+---
 ## SO MANY OPPORTUNITIES, SO LITTLE TIME.
 As Schmopera grows its presence, so does our outreach to a huge opera-centric community.
 

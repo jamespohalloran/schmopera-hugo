@@ -116,6 +116,7 @@ fields:
     time_format: 
     display_utc: 
 pages:
+- content/about/advertising.md
 - content/about/about.md
 - content/articles/fwer.md
 - content/articles/tweaking-the-brothers-grimm-in-oper-frankfurt-s-hänsel-und-gretel.md
