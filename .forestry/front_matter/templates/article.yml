@@ -116,6 +116,7 @@ fields:
     time_format: 
     display_utc: 
 pages:
+- content/about/media-relations.md
 - content/about/advertising.md
 - content/about/about.md
 - content/articles/fwer.md
